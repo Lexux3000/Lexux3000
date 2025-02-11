@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm ? ^^</h1>
+<h1 align="center">Hi there, I'm Alex ^^</h1>
 
 - 🌱 I’m currently learning **Tensorflow with Jetson Nano for real-time AI applications**
 
