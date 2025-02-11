@@ -6,8 +6,6 @@
 
 - 💬 Ask me about **Anything**
 
-- 📫 How to reach me **alexandr.roman201@gmail.com**
-
 - ⚡ Fun fact **Always pour milk on cereals not the other way around! >:(**
 
 <h3 align="left">Connect with me:</h3>
