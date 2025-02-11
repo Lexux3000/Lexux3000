@@ -1,5 +1,4 @@
-<h1 align="center">Hi there, I'm Alex ^^</h1>
-<h3 align="center">SW/FW Engineer for Alis-Tech s.r.o</h3>
+<h1 align="center">Hi there, I'm ? ^^</h1>
 
 - 🌱 I’m currently learning **Tensorflow with Jetson Nano for real-time AI applications**
 
